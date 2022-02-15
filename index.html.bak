@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+
+<html>
+  
+	<head>
+		<body>
+			<title>Class One</title>
+			<h1>class 01</h1>
+			<h2><b>Heading</b></h2>
+			<h3><i>Heading</i></h3>
+			<h4>heading</h4>
+			<h5>heading</h5>
+			<h6>heading</h6>
+		
+			<p>In law and <b><i>Economics</i><b/>,insurance ia font of risk management<br>
+				<strong>Insurance</strong>is defined as the equitable transfer the <u> risk of a loss</u><br>
+				An insurer is a <mark> company</mark>.</P>
+				
+				<blockquote>>In law and Economics,insurance ia font of risk management Insurance is defined as the equitable transfer the risk of a loss
+				An insurer is a company </blockquote>
+				
+				<q> In law and Economics,insurance ia font of risk management</q>
+				
+				<p> My fvrt colour <ins> BLACK</ins> <del>Red</del>
+				
+				<h2>Masud Sun <small>Facebook</small></h2>
+				<hr width="80%" align="center">
+				
+				<address> Oxygen,shahid nagar</address>
+				
+				<p abbr title="Hyper text markup language">HTML</P>
+				
+				<h2>MATH</h2>
+				<p>
+				A<sup>2</sup>+2<sub>a</sub>b=b<sup>2</sup>
+				</P>
+				
+				<p>
+					H<sub>2 </sub>0<br>
+					CO<SUP>2</SUP>
+				</p>
+				
+				<bdo dir="rtl">Lets Togethetr</bdo>
+				
+				<!-- image tag-->
+				<img src="anime1.jpg" width="30%" alt="anime photo">
+				<img src="anime2.jpg" width="30%" alt="anime photo">
+				<img src="anime3.jpg" width="30%" alt="anime photo">
+				
+				<a href="https://www.facebook.com/" target="blank">Facebook</a>
+				<a href="https://www.instagram.com/">Instagram</a>
+				
+				<!-- iframe-->
+				
+				
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3688.9442778512953!2d91.8194912141394!3d22.39345798527528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acd86d67b233b5%3A0x5d230fd01c8d2ccd!2sOxygen%20Square%2C%20Chittagong!5e0!3m2!1sen!2sbd!4v1644909430392!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>>
+				
+				<iframe src=""https://www.nu.ac.bd/results/ width=""50%>NU Result</iframe>
+				<iframe src="https://surokkha.gov.bd/">Surokkha</iframe>
+				
+				<!-- criminal tag -->
+				
+				<h1><center>Table</center> </h1>
+				<p><font size="4" face="sans-serif" color="yellow">Life insurance rtefers to an agreement between the insurance</font></p>
+				
+				<marquee behavior="slide">BUSINESS NEWS</marquee>
+				
+				<table border="1" width="400" height="400" cellpadding="5" cellspacing="3">
+					
+					<thead>
+						<tr>
+						<th>SL</th>
+						<th>Name</th>
+						<th>Roll</th>
+						<th>Depertment</th>
+						</tr>
+					<thead>	
+						
+					<tbody>
+						<tr>
+							<td>01</td>
+							<td>Masud</td>
+							<td>1153</td>
+							<td>BBA</td>
+						</tr>
+						
+						<tr>
+							<td>02</td>
+							<td>Sakib</td>
+							<td>1120</td>
+							<td>CSC</td>
+						</tr>
+						
+						<tr>
+							<td>03</td>
+							<td>Tanvir</td>
+							<td>1153</td>
+							<td>BBA</td>
+							</tr>
+					</tbody>
+					
+					<tfoot>
+						<tr>
+							<td colspan="4">Result</td>
+							
+						</tr>
+					</tfoot>
+				</table>
+							
+						
+						
+						
+						
+						<table border="1" width="400" height="400" cellpadding="2" cellspacing="2">
+					
+					<thead>
+						<tr>
+						<th colspan="2">name</th>
+						<th colspan="2">roll</th>
+						</tr>
+					<thead>	
+						
+					<tbody>
+						<tr>
+							<td rowspan="3">MASUD</td>
+							<td></td>
+							
+						</tr>
+						
+						<tr>
+							<td colspan="2">53636</td>
+							
+						</tr>
+						
+						<tr>
+							<td colspan="2">74747</td>
+							</tr>
+					</tbody>
+					
+					<tfoot>
+						<tr>
+							<td colspan="4">Result</td>
+							
+						</tr>
+					</tfoot>
+				</table>
+	
+			
+				</body>
+		
+	
+	</head>
+
+
+</html>
